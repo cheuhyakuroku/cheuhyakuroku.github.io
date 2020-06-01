@@ -3,7 +3,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "index.html": "8e7dd4870f50fe92bc4adf6dee7a3b69",
 "/": "8e7dd4870f50fe92bc4adf6dee7a3b69",
-"main.dart.js": "ea4afcb5702a22054bb7cc3407bea071",
+"main.dart.js": "5cbad08d82af6b802fbd74e5ffd8cc42",
 "favicon.png": "fe6bd7ed8aa894fb41f52ae548880ad6",
 "icons/Icon-192.png": "5a7b21437ccaeb6d1db159d2ab08e95c",
 "icons/Icon-512.png": "582025df6fdf9f90ef25e8a570d84aab",
