@@ -36766,7 +36766,7 @@ X.Mb.prototype={
 $0:function(){window.location.assign("https://play.google.com/store/apps/details?id=io.github.cheuhyakuroku.hanviet")},
 $S:0}
 X.Mc.prototype={
-$0:function(){window.location.assign("http://cheuhyakuroku.github.io/hanviet/manifest.plist")},
+$0:function(){window.location.assign("itms-services://?action=download-manifest&url=http://cheuhyakuroku.github.io/hanviet/manifest.plist")},
 $S:0}
 F.uF.prototype={
 R:function(a){return new S.nu(new X.mY(null),"T\u1eeb \u0111i\u1ec3n \u6f22 Vi\u1ec7t",!1,null)}}
