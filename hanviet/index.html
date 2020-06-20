@@ -16,6 +16,16 @@
 
   <title>Từ điển 漢 Việt</title>
   <link rel="manifest" href="manifest.json">
+  <script type="application/javascript">
+    function openLink(url, target, isAsync = false) {
+      var is_safari = /^(?!.*chrome).*safari/i.test(navigator.userAgent.toLowerCase());
+      if(isAsync && is_safari) {
+        window.location.href = url;
+      } else {
+        window.open(url, target);
+      }
+    }
+  </script>
 </head>
 <body>
   <!-- This script installs service_worker.js to provide PWA functionality to
