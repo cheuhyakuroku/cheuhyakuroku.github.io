@@ -16,7 +16,7 @@
                         <string>software-package</string>
                         <!-- required.  the URL of the file to download. -->
                         <key>url</key>
-                        <string>https://cheuhyakuroku.github.io/hanviet/hanviet.ipa</string>
+                        <string>https://github.com/cheuhyakuroku/cheuhyakuroku.github.io/releases/download/v1.0.2/hanviet.ipa</string>
                     </dict>
                     <!-- display-image: the icon to display during download. -->
                     <dict>
