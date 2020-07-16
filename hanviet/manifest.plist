@@ -1,64 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-        <!-- array of downloads. -->
-        <key>items</key>
-        <array>
-            <dict>
-                <!-- an array of assets to download -->
-                <key>assets</key>
-                <array>
-                    <!-- software-package: the ipa to install. -->
-                    <dict>
-                        <!-- required.  the asset kind. -->
-                        <key>kind</key>
-                        <string>software-package</string>
-                        <!-- required.  the URL of the file to download. -->
-                        <key>url</key>
-                        <string>https://github.com/cheuhyakuroku/cheuhyakuroku.github.io/releases/download/v1.0.2/hanviet.ipa</string>
-                    </dict>
-                    <!-- display-image: the icon to display during download. -->
-                    <dict>
-                        <key>kind</key>
-                        <string>display-image</string>
-                        <!-- optional. icon needs shine effect applied. -->
-                        <key>needs-shine</key>
-                        <true/>
-                        <key>url</key>
-                        <string>https://cheuhyakuroku.github.io/hanviet/logo.57×57.png</string>
-                    </dict>
-                    <!-- full-size-image: the large 512×512 icon used by iTunes. -->
-                    <dict>
-                        <key>kind</key>
-                        <string>full-size-image</string>
-                        <!-- optional.  one md5 hash for the entire file. -->
-                        <key>needs-shine</key>
-                        <true/>
-                        <key>url</key>
-                        <string>https://cheuhyakuroku.github.io/hanviet/logo.512×512.jpg</string>
-                    </dict>
-                </array>
-                <key>metadata</key>
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
                 <dict>
-                    <!-- required -->
-                    <key>bundle-identifier</key>
-                    <string>io.github.cheuhyakuroku.hanviet</string>
-                    <!-- optional (software only) -->
-                    <key>bundle-version</key>
-                    <string>1.0.1</string>
-                    <!-- required.  the download kind. -->
                     <key>kind</key>
-                    <string>software</string>
-                    <!-- optional. displayed during download; -->
-                    <!-- typically company name -->
-                    <key>subtitle</key>
-                    <string>Từ điển 漢 Việt - giúp bạn tra cứu nhanh chóng những chữ Hán. hỗ trợ việc học tiếng Hán phục vụ nghiên cứu, du học, lao động...</string>
-                    <!-- required.  the title to display during the download. -->
-                    <key>title</key>
-                    <string>Từ điển 漢 Việt</string>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/cheuhyakuroku/cheuhyakuroku.github.io/releases/download/v1.0.2/hanviet.ipa</string>
                 </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>io.github.cheuhyakuroku.hanviet</string>
+                <key>bundle-version</key>
+                <string>1.0.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>Từ điển 漢 Việt</string>
             </dict>
-        </array>
-    </dict>
+        </dict>
+    </array>
+</dict>
 </plist>
