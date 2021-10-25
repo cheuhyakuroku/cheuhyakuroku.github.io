@@ -3,42 +3,42 @@
         "name": "999 Bức thư gửi cho bản thân",
         "des": "999 Bức thư gửi cho bản thân, song ngữ Tiếng Việt -  tiếng Trung [简体 - 繁体]",
         "link": "https://play.google.com/store/apps/details?id=com.cheuh.cheu.jiubaijiushijiu",
-        "image": "https://lh3.googleusercontent.com/thyA4WRaYeqQLFN-ZiRbvPLCJI9tpJWyrKBPvTBCleruNFaVCMSdP-RB_djc3qm3Dw=s256-rw"
-    },
-    {
-        "name": "1001 bức thư viết cho tương lai",
-        "des": "1001 bức thư viết cho tương lai, song ngữ Tiếng Việt -  tiếng Trung [简体 - 繁体]",
-        "link": "https://play.google.com/store/apps/details?id=io.github.cheuhyakuroku.bucthuvietchotuonglai",
-        "image": "https://lh3.googleusercontent.com/XdX_Zf2H7Lxbv_X9mcln2ZNG_Hz8jz41kOhA3uEUUMoTu0aoxN48ivUOVgQ6jrSNqvg=s256-rw"
-    },
-    {
-        "name": "Từ điển Kanji Hán Việt",
-        "des": "Từ điển Kanji Hán Việt, bao gồm 2136 Hán Tự, đầy đủ 214 bộ thủ",
-        "link": "https://play.google.com/store/apps/details?id=io.github.com.cheuhyakuroku.kanjihanviet",
-        "image": "https://lh3.googleusercontent.com/9idA1sCJGyOQFmLBflIPfk97VaTSHvfzOJB-x-lyeK7qmShBhkSXlja4VRoTwXcTjB4=s256-rw"
-    },
-    {
-        "name": "Đấu Phá Thương Khung",
-        "des": "Đấu Phá Thương Khung truyện full offline",
-        "link": "https://play.google.com/store/apps/details?id=io.github.cheuhyakuroku.dptk",
-        "image": "https://lh3.googleusercontent.com/TRe7BBrlqd6FiuyBvFjE8rupY5jaVY0zh1X8PnK7isGhOewZT2m4NMstlhI01Pq442U=s256-rw"
-    },
-    {
-        "name": "Đắc nhân tâm",
-        "des": "Quyển sách nổi tiếng nhất bán chạy nhất, có tầm ảnh hưởng nhất của mọi thời đại",
-        "link": "https://play.google.com/store/apps/details?id=io.github.cheuhyakuroku.dnt",
-        "image": "https://lh3.googleusercontent.com/6eJzERvB6F7cUy3bgKVA1PAERbWDgtAqbIvIp8YmkpSAD3UljrEGJ_BE6lHh5bx19cWx=s256-rw"
-    },
-    {
-        "name": "900 câu khẩu ngữ tiếng trung theo chủ đề",
-        "des": "900 câu khẩu ngữ tiếng trung theo chủ đề, song ngữ Việt - Trung, jianti -  fanti",
-        "link": "https://play.google.com/store/apps/details?id=io.github.cheuhyakuroku.khaungu900",
-        "image": "https://lh3.googleusercontent.com/Y6ba7nRr9cT-dRzDIY7HL68CUPxwj0jZ4vNSKRvqxQS0iw1PqtopKB0c4rk-cxWZEHU=s256-rw"
+        "image": "https://lh3.googleusercontent.com/thyA4WRaYeqQLFN-ZiRbvPLCJI9tpJWyrKBPvTBCleruNFaVCMSdP-RB_djc3qm3Dw=s128-rw"
     },
     {
         "name": "Từ điển 漢 Việt",
         "des": "Từ điển 漢 Việt, Hán Việt, Trung Việt, Chinese Vietnamese Dictionary, 越汉词典",
         "link": "https://play.google.com/store/apps/details?id=io.github.cheuhyakuroku.hanviet",
-        "image": "https://lh3.googleusercontent.com/hfcxZ0gIzKRub2jJ2_7Mr_bO-pgci7JJK1fW9wwSzmOAubcbS4dpyK_jvPLPvyGh3MEY=s360-rw"
-    }
+        "image": "https://play-lh.googleusercontent.com/iOLJlK7Ij_8LibCP39TUKihtROmDwIBOL01ImnUSeGhXLsZPnc-RU-Z9DUGoPSZhHX4=s128-rw"
+    },
+    {
+        "name": "Cùng nhau học tiếng Nhật",
+        "des": "Cùng nhau học tiếng Nhật, dành cho những người mới bắt đầu học tiếng Nhật.",
+        "link": "https://play.google.com/store/apps/details?id=io.github.cheuhyakuroku.nhk",
+        "image": "https://lh3.googleusercontent.com/hfcxZ0gIzKRub2jJ2_7Mr_bO-pgci7JJK1fW9wwSzmOAubcbS4dpyK_jvPLPvyGh3MEY=s128-rw"
+    },
+    {
+        "name": "1001 bức thư viết cho tương lai",
+        "des": "1001 bức thư viết cho tương lai, song ngữ Tiếng Việt -  tiếng Trung [简体 - 繁体]",
+        "link": "https://play.google.com/store/apps/details?id=io.github.cheuhyakuroku.bucthuvietchotuonglai",
+        "image": "https://lh3.googleusercontent.com/XdX_Zf2H7Lxbv_X9mcln2ZNG_Hz8jz41kOhA3uEUUMoTu0aoxN48ivUOVgQ6jrSNqvg=s128-rw"
+    },
+    {
+        "name": "Từ điển Kanji Hán Việt",
+        "des": "Từ điển Kanji Hán Việt, bao gồm 2136 Hán Tự, đầy đủ 214 bộ thủ",
+        "link": "https://play.google.com/store/apps/details?id=io.github.com.cheuhyakuroku.kanjihanviet",
+        "image": "https://lh3.googleusercontent.com/9idA1sCJGyOQFmLBflIPfk97VaTSHvfzOJB-x-lyeK7qmShBhkSXlja4VRoTwXcTjB4=s128-rw"
+    },
+    {
+        "name": "900 câu khẩu ngữ tiếng trung theo chủ đề",
+        "des": "900 câu khẩu ngữ tiếng trung theo chủ đề, song ngữ Việt - Trung, jianti -  fanti",
+        "link": "https://play.google.com/store/apps/details?id=io.github.cheuhyakuroku.khaungu900",
+        "image": "https://lh3.googleusercontent.com/Y6ba7nRr9cT-dRzDIY7HL68CUPxwj0jZ4vNSKRvqxQS0iw1PqtopKB0c4rk-cxWZEHU=s128-rw"
+    },
+    {
+        "name": "Phàm nhân tiên giới thiên (PNTT 2)",
+        "des": "Phàm nhân tiên giới thiên (PNTT 2), phàm nhân tu tiên, truyện chữ offline",
+        "link": "https://play.google.com/store/apps/details?id=io.github.cheuhyakuroku.pntt2",
+        "image": "https://play-lh.googleusercontent.com/nOo35y7z2htryu609Y3af5Itp8FzCisMVwBnnbbakddDn2sRUjgOkdkOOHUBPYWpTlu0=s128-rw"
+    },
 ]
