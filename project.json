@@ -24,6 +24,12 @@
         "image": "https://lh3.googleusercontent.com/hfcxZ0gIzKRub2jJ2_7Mr_bO-pgci7JJK1fW9wwSzmOAubcbS4dpyK_jvPLPvyGh3MEY=s128-rw"
     },
     {
+        "name": "Từ điển PokeInfo",
+        "des": "Từ điển PokeInfo là từ điển được thiết kế đơn giản nhưng rất đầy đủ dành cho người yêu thích PokeInfo.",
+        "link": "https://play.google.com/store/apps/details?id=io.github.cheuhyakuroku.pokedex",
+        "image": "https://play-lh.googleusercontent.com/vDhMfdD6NdlhfD4esbBPBBIjPgL7u8WZAi9Hdx8iowqDZjLl5n3EZ4wuo8mCLehS8Td5=s128-rw"
+    },
+    {
         "name": "1001 bức thư viết cho tương lai",
         "des": "1001 bức thư viết cho tương lai, song ngữ Tiếng Việt -  tiếng Trung [简体 - 繁体]",
         "link": "https://play.google.com/store/apps/details?id=io.github.cheuhyakuroku.bucthuvietchotuonglai",
@@ -42,9 +48,9 @@
         "image": "https://lh3.googleusercontent.com/Y6ba7nRr9cT-dRzDIY7HL68CUPxwj0jZ4vNSKRvqxQS0iw1PqtopKB0c4rk-cxWZEHU=s128-rw"
     },
     {
-        "name": "Phàm nhân tiên giới thiên (PNTT 2)",
-        "des": "Phàm nhân tiên giới thiên (PNTT 2), phàm nhân tu tiên, truyện chữ offline",
-        "link": "https://play.google.com/store/apps/details?id=io.github.cheuhyakuroku.pntt2",
-        "image": "https://play-lh.googleusercontent.com/nOo35y7z2htryu609Y3af5Itp8FzCisMVwBnnbbakddDn2sRUjgOkdkOOHUBPYWpTlu0=s128-rw"
+        "name": "Đấu Phá Thương Khung",
+        "des": "Đấu Phá Thương Khung, truyện chữ offline",
+        "link": "https://play.google.com/store/apps/details?id=io.github.cheuhyakuroku.dptk",
+        "image": "https://play-lh.googleusercontent.com/hYNyeImjxRYH2F08gernZduM94Qst-s6Fv4VVnyuNiCn6GCYDTm-SXqGDYnDf5k0WpXa=s128-rw"
     }
 ]
