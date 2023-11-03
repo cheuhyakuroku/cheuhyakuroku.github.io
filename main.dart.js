@@ -41486,12 +41486,12 @@ B.nl.prototype={
 aD:function(){return new B.Al(C.m)}}
 B.Al.prototype={
 H:function(a){var t=null,s=F.bm(a,!1).a,r=F.bm(a,!1).a,q=V.Gd(U.ci("assets/cover.jpg",C.jZ,t,F.bm(a,!1).a.a)),p=F.bm(a,!1).a,o=u.E
-return E.a_0(new T.d8(C.K,t,t,T.kM(H.b([M.eO(t,T.jV(C.bE,H.b([new T.e1(C.jV,t,t,new T.eh(new V.aK(0,0,0,20),q,t),t),new T.e1(C.f6,t,t,K.Yd(U.ci("assets/avatar.jpg",t,t,t).c,p.a/21.991148575128552),t)],o),C.bB),t,t,t,t,r.a/3.9269908169872414,t,t,t,s.a/1.5707963267948966),new T.aZ(t,20,t,t),L.bL("Tri\u1ec7u Ph\u01b0\u1edbc L\u1ed9c",t,C.bD,4),new T.aZ(t,20,t,t),L.bL("Android, Flutter.\nPhotography, Traveling.",K.bk(a).Y.Q,C.bD,2),new T.aZ(t,20,t,t),T.eo(H.b([N.eE(new T.aZ(20,20,U.ci("assets/github.png",t,t,t),t),L.bL("Github",t,t,t),new B.PC()),N.eE(new T.aZ(20,20,U.ci("assets/twitter.png",t,t,t),t),L.bL("Twitter",t,t,t),new B.PD())],o),C.U,C.bw,C.a4),T.eo(H.b([N.eE(new T.aZ(20,20,U.ci("assets/instagram.png",t,t,t),t),L.bL("Instagram",t,t,t),new B.PE()),N.eE(new T.aZ(20,20,U.ci("assets/facebook.png",t,t,t),t),L.bL("Facebook",t,t,t),new B.PF())],o),C.U,C.bw,C.a4),T.eo(H.b([N.eE(new T.aZ(20,20,U.ci("assets/youtube.png",t,t,t),t),L.bL("Youtube",t,t,t),new B.PG()),N.eE(new T.aZ(20,20,U.ci("assets/chplay.png",t,t,t),t),L.bL("CH Play",t,t,t),new B.PH())],o),C.U,C.bw,C.a4)],o),C.U,C.aM,C.a4),t),new L.hz(t),C.l)}}
+return E.a_0(new T.d8(C.K,t,t,T.kM(H.b([M.eO(t,T.jV(C.bE,H.b([new T.e1(C.jV,t,t,new T.eh(new V.aK(0,0,0,20),q,t),t),new T.e1(C.f6,t,t,K.Yd(U.ci("assets/avatar.jpg",t,t,t).c,p.a/21.991148575128552),t)],o),C.bB),t,t,t,t,r.a/3.9269908169872414,t,t,t,s.a/1.5707963267948966),new T.aZ(t,20,t,t),L.bL("Tri\u1ec7u Ph\u01b0\u1edbc L\u1ed9c",t,C.bD,4),new T.aZ(t,20,t,t),L.bL("Android, Flutter.\nPhotography, Traveling.",K.bk(a).Y.Q,C.bD,2),new T.aZ(t,20,t,t),T.eo(H.b([N.eE(new T.aZ(20,20,U.ci("assets/github.png",t,t,t),t),L.bL("Github",t,t,t),new B.PC()),N.eE(new T.aZ(20,20,U.ci("assets/tik-tok.png",t,t,t),t),L.bL("Tik-tok",t,t,t),new B.PD())],o),C.U,C.bw,C.a4),T.eo(H.b([N.eE(new T.aZ(20,20,U.ci("assets/instagram.png",t,t,t),t),L.bL("Instagram",t,t,t),new B.PE()),N.eE(new T.aZ(20,20,U.ci("assets/facebook.png",t,t,t),t),L.bL("Facebook",t,t,t),new B.PF())],o),C.U,C.bw,C.a4),T.eo(H.b([N.eE(new T.aZ(20,20,U.ci("assets/youtube.png",t,t,t),t),L.bL("Youtube",t,t,t),new B.PG()),N.eE(new T.aZ(20,20,U.ci("assets/chplay.png",t,t,t),t),L.bL("CH Play",t,t,t),new B.PH())],o),C.U,C.bw,C.a4)],o),C.U,C.aM,C.a4),t),new L.hz(t),C.l)}}
 B.PC.prototype={
 $0:function(){return C.F.cQ(window,"https://github.com/cheuhyakuroku/","Tri\u1ec7u Ph\u01b0\u1edbc L\u1ed9c")},
 $S:4}
 B.PD.prototype={
-$0:function(){return C.F.cQ(window,"https://twitter.com/cheuhyakuroku","Tri\u1ec7u Ph\u01b0\u1edbc L\u1ed9c")},
+$0:function(){return C.F.cQ(window,"https://tiktok.com/@trieuphuocloc","Tri\u1ec7u Ph\u01b0\u1edbc L\u1ed9c")},
 $S:4}
 B.PE.prototype={
 $0:function(){return C.F.cQ(window,"https://www.instagram.com/cheuhyakuroku/","Tri\u1ec7u Ph\u01b0\u1edbc L\u1ed9c")},
@@ -41509,12 +41509,12 @@ B.nn.prototype={
 aD:function(){return new B.An(C.m)}}
 B.An.prototype={
 H:function(a){var t=null,s=F.bm(a,!1).a,r=F.bm(a,!1).a,q=V.Gd(U.ci("assets/cover.jpg",C.jZ,t,F.bm(a,!1).a.a)),p=F.bm(a,!1).a,o=u.E
-return E.a_0(new T.d8(C.K,t,t,T.kM(H.b([M.eO(t,T.jV(C.bE,H.b([new T.e1(C.jV,t,t,new T.eh(new V.aK(0,0,0,20),q,t),t),new T.e1(C.f6,t,t,K.Yd(U.ci("assets/avatar.jpg",t,t,t).c,p.a/9.42477796076938),t)],o),C.bB),t,t,t,t,s.a/1.5707963267948966,t,t,t,r.a),new T.aZ(t,20,t,t),L.bL("Tri\u1ec7u Ph\u01b0\u1edbc L\u1ed9c",t,C.bD,4),new T.aZ(t,20,t,t),L.bL("Android, Flutter.\nPhotography, Traveling.",K.bk(a).Y.Q,C.bD,2),new T.aZ(t,20,t,t),T.eo(H.b([N.eE(new T.aZ(20,20,U.ci("assets/github.png",t,t,t),t),L.bL("Github",t,t,t),new B.PI()),N.eE(new T.aZ(20,20,U.ci("assets/twitter.png",t,t,t),t),L.bL("Twitter",t,t,t),new B.PJ())],o),C.U,C.bw,C.a4),T.eo(H.b([N.eE(new T.aZ(20,20,U.ci("assets/instagram.png",t,t,t),t),L.bL("Instagram",t,t,t),new B.PK()),N.eE(new T.aZ(20,20,U.ci("assets/facebook.png",t,t,t),t),L.bL("Facebook",t,t,t),new B.PL())],o),C.U,C.bw,C.a4),T.eo(H.b([N.eE(new T.aZ(20,20,U.ci("assets/youtube.png",t,t,t),t),L.bL("Youtube",t,t,t),new B.PM()),N.eE(new T.aZ(20,20,U.ci("assets/chplay.png",t,t,t),t),L.bL("CH Play",t,t,t),new B.PN())],o),C.U,C.bw,C.a4)],o),C.U,C.aM,C.a4),t),new L.hz(t),C.l)}}
+return E.a_0(new T.d8(C.K,t,t,T.kM(H.b([M.eO(t,T.jV(C.bE,H.b([new T.e1(C.jV,t,t,new T.eh(new V.aK(0,0,0,20),q,t),t),new T.e1(C.f6,t,t,K.Yd(U.ci("assets/avatar.jpg",t,t,t).c,p.a/9.42477796076938),t)],o),C.bB),t,t,t,t,s.a/1.5707963267948966,t,t,t,r.a),new T.aZ(t,20,t,t),L.bL("Tri\u1ec7u Ph\u01b0\u1edbc L\u1ed9c",t,C.bD,4),new T.aZ(t,20,t,t),L.bL("Android, Flutter.\nPhotography, Traveling.",K.bk(a).Y.Q,C.bD,2),new T.aZ(t,20,t,t),T.eo(H.b([N.eE(new T.aZ(20,20,U.ci("assets/github.png",t,t,t),t),L.bL("Github",t,t,t),new B.PI()),N.eE(new T.aZ(20,20,U.ci("assets/tik-tok.png",t,t,t),t),L.bL("Tik-tok",t,t,t),new B.PJ())],o),C.U,C.bw,C.a4),T.eo(H.b([N.eE(new T.aZ(20,20,U.ci("assets/instagram.png",t,t,t),t),L.bL("Instagram",t,t,t),new B.PK()),N.eE(new T.aZ(20,20,U.ci("assets/facebook.png",t,t,t),t),L.bL("Facebook",t,t,t),new B.PL())],o),C.U,C.bw,C.a4),T.eo(H.b([N.eE(new T.aZ(20,20,U.ci("assets/youtube.png",t,t,t),t),L.bL("Youtube",t,t,t),new B.PM()),N.eE(new T.aZ(20,20,U.ci("assets/chplay.png",t,t,t),t),L.bL("CH Play",t,t,t),new B.PN())],o),C.U,C.bw,C.a4)],o),C.U,C.aM,C.a4),t),new L.hz(t),C.l)}}
 B.PI.prototype={
 $0:function(){return C.F.cQ(window,"https://github.com/cheuhyakuroku/","Tri\u1ec7u Ph\u01b0\u1edbc L\u1ed9c")},
 $S:4}
 B.PJ.prototype={
-$0:function(){return C.F.cQ(window,"https://twitter.com/cheuhyakuroku","Tri\u1ec7u Ph\u01b0\u1edbc L\u1ed9c")},
+$0:function(){return C.F.cQ(window,"https://www.tiktok.com/@trieuphuocloc","Tri\u1ec7u Ph\u01b0\u1edbc L\u1ed9c")},
 $S:4}
 B.PK.prototype={
 $0:function(){return C.F.cQ(window,"https://www.instagram.com/cheuhyakuroku/","Tri\u1ec7u Ph\u01b0\u1edbc L\u1ed9c")},
